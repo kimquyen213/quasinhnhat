@@ -41,8 +41,8 @@ body {
   }
   
   .birthday-img {
-    width: 100%;
-    max-width: 100px;
+    width: 50%;
+    max-width: 50px;
     border-radius: 15px;
     animation: pulse 2s infinite ease-in-out;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
